@@ -1,0 +1,4 @@
+[
+{"id":1,"tanggal":"2026-11-20T13:10:00.000Z","kasir":"Barista Kasir","items":[{"nama":"Aren Latte","varian":"Iced","qty":2,"shot":false,"subtotal":30000}],"total":30000,"bayar":50000,"kembali":20000},
+{"id":2,"tanggal":"2026-11-20T13:40:00.000Z","kasir":"Barista Kasir","items":[{"nama":"Americano","varian":"Hot","qty":1,"shot":true,"subtotal":18000}],"total":18000,"bayar":20000,"kembali":2000}
+]

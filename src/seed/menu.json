@@ -1,0 +1,13 @@
+[
+{"id":1,"nama":"Caramel Macchiato","hargaIced":25000,"hargaHot":null},
+{"id":2,"nama":"Butterscotch Sea Salt Cream","hargaIced":25000,"hargaHot":null},
+{"id":3,"nama":"Hazelnut Latte","hargaIced":20000,"hargaHot":null},
+{"id":4,"nama":"Cream Cheese Latte","hargaIced":20000,"hargaHot":null},
+{"id":5,"nama":"Aren Latte","hargaIced":15000,"hargaHot":15000},
+{"id":6,"nama":"Sanger Dingin","hargaIced":15000,"hargaHot":15000},
+{"id":7,"nama":"Dolce Latte","hargaIced":18000,"hargaHot":18000},
+{"id":8,"nama":"Caramel Latte","hargaIced":14000,"hargaHot":14000},
+{"id":9,"nama":"Dalgona Coffee","hargaIced":18000,"hargaHot":null},
+{"id":10,"nama":"Americano","hargaIced":10000,"hargaHot":10000},
+{"id":11,"nama":"Vanilla Latte","hargaIced":14000,"hargaHot":null}
+]
